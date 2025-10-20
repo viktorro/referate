@@ -20,6 +20,25 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      - name: Debug - Show environment and file structure
+        run: |
+          echo "Current commit: $(git rev-parse HEAD)"
+          echo "Current branch: $(git rev-parse --abbrev-ref HEAD)"
+          echo "Working directory: $(pwd)"
+          echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
+          echo ""
+          echo "Listing referate directory (if it exists):"
+          ls -la referate/ 2>&1 || echo "referate/ directory does not exist"
+          echo ""
+          echo "Git-tracked files matching referat name:"
+          git ls-files | grep -i "referat" || echo "No files matching 'referat' found"
+          echo ""
+          echo "All files in repository root:"
+          ls -la
 
       - name: Install pandoc
         run: |
@@ -28,9 +47,37 @@ jobs:
 
       - name: Convert Markdown to DOCX
         run: |
-          pandoc -s "$INPUT_MD" -o "$OUTPUT_DOCX" \
+          # Use absolute paths for better reliability
+          INPUT_FILE="$GITHUB_WORKSPACE/$INPUT_MD"
+          OUTPUT_FILE="$GITHUB_WORKSPACE/$OUTPUT_DOCX"
+
+          # Verify input file exists
+          if [ ! -f "$INPUT_FILE" ]; then
+            echo "ERROR: Input file not found: $INPUT_FILE"
+            echo ""
+            echo "Expected path: $INPUT_MD"
+            echo "Absolute path: $INPUT_FILE"
+            echo ""
+            echo "Current directory contents:"
+            ls -la "$GITHUB_WORKSPACE"
+            echo ""
+            echo "Referate directory contents (if exists):"
+            ls -la "$GITHUB_WORKSPACE/referate/" 2>&1 || echo "referate/ directory does not exist"
+            echo ""
+            echo "All markdown files in workspace:"
+            find "$GITHUB_WORKSPACE" -name "*.md" -type f
+            exit 1
+          fi
+
+          # Ensure output directory exists
+          mkdir -p "$(dirname "$OUTPUT_FILE")"
+
+          # Run pandoc with absolute paths
+          pandoc -s "$INPUT_FILE" -o "$OUTPUT_FILE" \
             --metadata=title:"Metode de recondiționare. Prelucrări mecanice" \
             --metadata=author:"Ungureanu Victor"
+
+          echo "Successfully created: $OUTPUT_FILE"
 
       - name: Commit DOCX back to repository
         uses: stefanzweifel/git-auto-commit-action@v5
