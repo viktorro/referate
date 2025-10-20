@@ -1,1 +1,40 @@
 
+name: Build DOCX for referat
+
+on:
+  push:
+    paths:
+      - "referate/Referat_Metode_de_reconditionare_prelucrari_mecanice_Ungureanu_Victor.md"
+      - ".github/workflows/build-docx.yml"
+  workflow_dispatch:
+
+# Permite workflow-ului să comită fișierele DOCX înapoi în repo
+permissions:
+  contents: write
+
+jobs:
+  build-docx:
+    runs-on: ubuntu-latest
+    env:
+      INPUT_MD: referate/Referat_Metode_de_reconditionare_prelucrari_mecanice_Ungureanu_Victor.md
+      OUTPUT_DOCX: referate/Referat_Metode_de_reconditionare_prelucrari_mecanice_Ungureanu_Victor.docx
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Convert Markdown to DOCX
+        run: |
+          pandoc -s "$INPUT_MD" -o "$OUTPUT_DOCX" \
+            --metadata=title:"Metode de recondiționare. Prelucrări mecanice" \
+            --metadata=author:"Ungureanu Victor"
+
+      - name: Commit DOCX back to repository
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Build DOCX: ${{ env.OUTPUT_DOCX }}"
+          file_pattern: ${{ env.OUTPUT_DOCX }}
