@@ -1,0 +1,230 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+      xmlns:w="urn:schemas-microsoft-com:office:word"
+      xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Automobiles à combustion vs. automobiles électriques</title>
+<style>
+body { font-family: "Times New Roman", serif; font-size: 12pt; line-height: 1.04; text-align: justify; margin: 2cm; }
+h1, h2, h3 { font-family: "Times New Roman", serif; }
+h1 { text-align: center; margin-bottom: 10pt; }
+h2 { margin-top: 14pt; margin-bottom: 8pt; }
+h3 { margin-top: 10pt; margin-bottom: 6pt; }
+p  { margin: 0 0 8pt 0; }
+ul, ol { margin: 0 0 8pt 22pt; }
+.figure { text-align: center; margin: 8pt 0 10pt 0; page-break-inside: avoid; }
+.figure img { max-width: 100%; height: auto; }
+.fullwidth { width: 100%; height: auto; }
+.caption { font-size: 10pt; color: #333; }
+.signature { margin-top: 24pt; }
+.sigline { margin-top: 8pt; }
+.small { font-size: 10pt; color: #333; }
+svg { max-width: 100%; height: auto; }
+hr { border: none; border-top: 1px solid #ccc; margin: 10pt 0; }
+</style>
+</head>
+<body>
+
+<h1>Automobiles à combustion vs. automobiles électriques</h1>
+
+<div class="figure">
+  <img class="fullwidth" src="https://commons.wikimedia.org/wiki/Special:FilePath/Electric%20Vehicle%20Charging%20Station.jpg" alt="Recharge d’une voiture électrique sur une borne publique">
+  <div class="caption">Figure 1. Recharge d’une voiture électrique sur borne publique (source : Wikimedia Commons, voir la <a href="https://commons.wikimedia.org/wiki/File:Electric_Vehicle_Charging_Station.jpg">page du fichier</a>).</div>
+</div>
+
+<div class="figure">
+  <img class="fullwidth" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Fueling_Car.jpg" alt="Ravitaillement d’une voiture à la station-service">
+  <div class="caption">Figure 2. Ravitaillement d’une voiture à la station-service (source : Wikimedia Commons, voir la <a href="https://commons.wikimedia.org/wiki/File:Fueling_Car.jpg">page du fichier</a>).</div>
+</div>
+
+<h2>1. Objectif et démarche</h2>
+<p>
+Ce projet compare, de manière claire et accessible, deux technologies automobiles majeures : la voiture à combustion (essence ou diesel) et la voiture électrique à batterie. L’ambition est d’expliquer, avec un langage naturel et des exemples concrets, les différences en termes de fonctionnement, d’efficacité énergétique, d’émissions, de coûts d’usage, d’autonomie et d’agrément au quotidien. Le but final est d’aider à choisir en connaissance de cause, selon les trajets, le budget et l’environnement de chacun.
+</p>
+
+<h2>2. Comment ça fonctionne ?</h2>
+<h3>2.1. Chaîne de traction à combustion</h3>
+<p>
+Dans un véhicule à combustion, le carburant mélangé à l’air est enflammé dans les cylindres. Les gaz à haute pression poussent les pistons, qui font tourner le vilebrequin. Le mouvement mécanique traverse l’embrayage, la boîte de vitesses et le différentiel pour atteindre les roues. Ce système, très répandu et maîtrisé, dissipe toutefois une part importante de l’énergie en chaleur (échappement, refroidissement). Il comporte de nombreuses pièces (soupapes, turbo, catalyseur, filtre à particules), ce qui influe sur la maintenance et la fiabilité à long terme.
+</p>
+
+<h3>2.2. Chaîne de traction électrique</h3>
+<p>
+Dans un véhicule électrique, l’énergie est stockée dans une batterie et délivrée à un ou plusieurs moteurs électriques. La conversion en mouvement est directe et très efficace, avec peu de pertes. À la décélération, une partie de l’énergie est récupérée par le freinage régénératif et réinjectée dans la batterie. La mécanique est plus simple (peu de pièces mobiles, pas de boîte classique) ; la conduite est donc douce et silencieuse, particulièrement en ville.
+</p>
+
+<h2>3. Efficacité énergétique : où va l’énergie ?</h2>
+<p>
+Le « rendement » indique la part d’énergie qui fait réellement avancer la voiture. Un moteur à combustion convertit typiquement 25 % à 35 % de l’énergie du carburant en mouvement utile ; le reste se perd en chaleur et en frottements. La chaîne de traction électrique atteint fréquemment 70 % à 90 % « du compteur à la roue », en profitant en plus de la récupération au freinage. Cela se traduit dans les consommations constatées sur route :
+</p>
+<ul>
+  <li>Voiture essence : environ 6 à 8 L/100 km (à 6,5 L/100 km, on parle de l’équivalent d’environ 55 à 75 kWh d’énergie chimique).</li>
+  <li>Voiture électrique : environ 15 à 20 kWh/100 km à la prise (valeur courante : 18 kWh/100 km).</li>
+</ul>
+<p>
+Concrètement, pour 100 km, une électrique consomme nettement moins d’énergie utile. Cette différence joue ensuite sur le coût par kilomètre et sur les émissions indirectes liées à la production d’énergie.
+</p>
+
+<h2>4. Émissions et environnement : local vs global</h2>
+<p>
+En circulation, un véhicule à combustion émet du CO₂, des oxydes d’azote (NOx) et des particules fines. Les émissions directes de CO₂ s’établissent souvent entre 120 et 170 g/km selon le modèle et la conduite. Un véhicule électrique n’émet rien à l’échappement ; ses émissions dépendent du mode de production de l’électricité. Avec un mix électrique moyen, on observe souvent 30 à 90 g CO₂/km à l’usage, et parfois moins de 50 g/km lorsque l’électricité est majoritairement bas carbone. En ville, l’avantage local de l’électrique est net : amélioration de la qualité de l’air (pas de NOx ni de particules d’échappement) et réduction du bruit.
+</p>
+
+<h2>5. Coûts d’usage : ce que coûte 100 km</h2>
+<p>
+Le coût énergétique repose sur le prix du carburant/de l’électricité et sur la consommation réelle :
+</p>
+<ul>
+  <li>Essence : à 1,6–2,0 €/L et 6,5 L/100 km, le trajet revient à ≈ 10–13 € pour 100 km.</li>
+  <li>Électricité à domicile : à 0,15–0,25 €/kWh et 18 kWh/100 km, on paie ≈ 3–5 € pour 100 km.</li>
+  <li>Recharge rapide publique : à 0,40–0,60 €/kWh, on paie ≈ 7–11 € pour 100 km.</li>
+</ul>
+<p>
+Côté entretien, l’électrique supprime les vidanges et réduit l’usure des freins grâce à la régénération. Les visites à l’atelier sont en général moins fréquentes, même si certains postes (pneus, climatisation, liquide de refroidissement batterie) restent à surveiller.
+</p>
+
+<h2>6. Autonomie et ravitaillement : organiser ses trajets</h2>
+<p>
+Les véhicules thermiques offrent couramment 600 à 900 km par plein et un ravitaillement en moins de 5 minutes. Les véhicules électriques actuels proposent 300 à 500 km d’autonomie selon le modèle, la météo et la vitesse. À domicile, une recharge AC typique (7 kW) remplit une batterie de 50 à 70 kWh en 8–10 heures ; sur autoroute, la charge rapide DC (100–150 kW, voire plus) permet de passer de 10 % à 80 % en 30–40 minutes.
+</p>
+<p>
+La planification diffère : on privilégie la recharge régulière, peu coûteuse, à la maison (ou au travail), et l’on s’appuie sur un ou deux arrêts rapides lors des longs trajets. En hiver, la consommation augmente (chauffage, batterie froide), ce qui incite à prévoir une marge d’autonomie supplémentaire.
+</p>
+
+<h2>7. Confort et agrément de conduite</h2>
+<p>
+L’électrique se distingue par un couple immédiat, des accélérations linéaires et un silence appréciable, surtout en ville. La batterie placée bas abaisse le centre de gravité, ce qui améliore la stabilité en virage. Le revers peut être une masse totale plus élevée, parfois perceptible lors des manœuvres serrées. Le thermique conserve des atouts sur autoroute (ravitaillement très rapide, autonomie élevée) et une sonorité que certains apprécient.
+</p>
+
+<h2>8. Infrastructures et logistique personnelle</h2>
+<p>
+Le réseau de stations-service est dense et très stable. Celui des bornes de recharge se développe rapidement : forte densité en zone urbaine et sur axes majeurs, plus variable à la campagne. L’installation d’une borne à domicile, si possible, change l’expérience d’usage : confort, coût réduit, véhicule prêt chaque matin. Pour les trajets inhabituels, les applications de planification aident à localiser les bornes disponibles et compatibles.
+</p>
+
+<h2>9. Coût total de possession (TCO)</h2>
+<p>
+Au-delà du prix d’achat (souvent plus élevé en électrique), il faut considérer l’énergie, l’entretien, l’assurance, la fiscalité et la valeur de revente. À 15 000 km/an, la différence de coût d’énergie (≈ 1 650 €/an en essence vs ≈ 600 €/an à domicile en électrique, avec les hypothèses ci‑dessus) pèse lourd sur 3–5 ans. Les aides publiques et la garantie batterie (souvent 7–8 ans) réduisent le risque perçu et améliorent la prévisibilité des dépenses.
+</p>
+
+<h2>10. Durabilité, batterie et sécurité</h2>
+<p>
+La longévité des batteries s’est nettement améliorée. Les constructeurs intègrent une gestion thermique et électronique protectrice (refroidissement, chauffage, équilibrage des cellules). Les bonnes pratiques (éviter 100 % prolongé au quotidien, rester souvent entre 20–80 %, limiter les recharges rapides consécutives) contribuent à préserver la santé de la batterie. Côté sécurité, les VE disposent de coupures automatiques en cas de choc et des mêmes aides à la conduite modernes que les thermiques.
+</p>
+
+<h2>11. Études de cas parlantes</h2>
+<h3>11.1. Trajets quotidiens de 40 km</h3>
+<p>
+Avec une prise domestique ou une petite borne, un VE consomme 7–9 kWh par jour, soit 1–2 € selon le tarif. Il se recharge pendant la nuit, sans détour ni attente. Une charge rapide ponctuelle couvre les week‑ends prolongés.
+</p>
+<h3>11.2. 500 km d’une traite</h3>
+<p>
+Le thermique permet d’enchaîner sans arrêt, imbattable en temps pur. En électrique, c’est faisable avec une pause unique de 30–40 minutes (et parfois une seconde courte en hiver). Les conducteurs qui apprécient une pause sur autoroute ne voient plus l’arrêt comme une contrainte.
+</p>
+<h3>11.3. Utilisation urbaine intensive</h3>
+<p>
+Les arrêts fréquents valorisent la régénération et l’absence d’émissions locales. Le coût au kilomètre baisse nettement, l’agrément augmente (silence, démarrages souples) et l’on profite des zones à faibles émissions.
+</p>
+
+<h2>12. Conseils pratiques pour décider</h2>
+<ul>
+  <li>Lister ses trajets types (quotidiens, hebdomadaires, vacances) : autonomie requise et possibilités de recharge.</li>
+  <li>Évaluer l’accès à une borne domicile/travail : principal levier de coût et de confort en VE.</li>
+  <li>Essayer les deux technologies sur un même parcours : bruit, reprise, tenue de route, fatigue.</li>
+  <li>Projeter un budget sur 3 ans : énergie, entretien, assurance, décote, aides.</li>
+  <li>Anticiper l’hiver en VE : marges d’autonomie et localisation de 1–2 bornes rapides fiables sur ses axes.</li>
+</ul>
+
+<h2>13. Graphiques de comparaison</h2>
+
+<div class="figure">
+  <img src="https://afdc.energy.gov/uploads/data_sheet/10963/EV_Efficiency_Ratio_Comparison.png" alt="Efficacité des véhicules électriques vs. essence, ville/route/mixte">
+  <div class="caption">Figure 3. Efficacité des véhicules électriques vs. essence (ville, route, mixte). Source : U.S. DOE – Alternative Fuels Data Center (<a href="https://afdc.energy.gov/data/10963">lien</a>).</div>
+</div>
+
+<div class="figure">
+<svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Coût énergie pour 100 km, essence vs. électrique (domicile/charge rapide)">
+<rect width="640" height="360" fill="#ffffff"/>
+<text x="320" y="28" font-family="Times New Roman" font-size="18" text-anchor="middle">Coût énergie pour 100 km</text>
+<text x="320" y="50" font-family="Times New Roman" font-size="12" text-anchor="middle">Exemples : Essence ≈ 11 € • Électrique domicile ≈ 4 € • Charge rapide ≈ 9 €</text>
+<line x1="80" y1="300" x2="600" y2="300" stroke="#333" stroke-width="1"/>
+<line x1="80" y1="80"  x2="80"  y2="300" stroke="#333" stroke-width="1"/>
+<g font-family="Times New Roman" font-size="12">
+  <text x="60" y="300" text-anchor="end">0</text>
+  <text x="60" y="260" text-anchor="end">2</text>
+  <text x="60" y="220" text-anchor="end">4</text>
+  <text x="60" y="180" text-anchor="end">6</text>
+  <text x="60" y="140" text-anchor="end">8</text>
+  <text x="60" y="100" text-anchor="end">10</text>
+  <text x="60" y="60"  text-anchor="end">12</text>
+</g>
+<rect x="140" y="80"  width="90" height="220" fill="#d9534f"/>
+<rect x="275" y="220" width="90" height="80"  fill="#5cb85c"/>
+<rect x="410" y="120" width="90" height="180" fill="#5bc0de"/>
+<g font-family="Times New Roman" font-size="12">
+  <text x="185" y="318" text-anchor="middle">Essence</text>
+  <text x="185" y="76"  text-anchor="middle">11 €</text>
+  <text x="320" y="318" text-anchor="middle">Élec. domicile</text>
+  <text x="320" y="216" text-anchor="middle">4 €</text>
+  <text x="455" y="318" text-anchor="middle">Charge rapide</text>
+  <text x="455" y="116" text-anchor="middle">9 €</text>
+</g>
+</svg>
+  <div class="caption">Figure 4. Coût énergétique typique pour 100 km (valeurs indicatives, variables selon tarifs et consommation).</div>
+</div>
+
+<div class="figure">
+<svg viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Émissions à l’usage (g CO2/km)">
+<rect width="640" height="360" fill="#ffffff"/>
+<text x="320" y="28" font-family="Times New Roman" font-size="18" text-anchor="middle">Émissions à l’usage (g CO₂/km)</text>
+<text x="320" y="50" font-family="Times New Roman" font-size="12" text-anchor="middle">Exemples : Essence ≈ 150 • VE (mix carboné) ≈ 90 • VE (mix bas carbone) ≈ 30</text>
+<line x1="80" y1="300" x2="600" y2="300" stroke="#333" stroke-width="1"/>
+<line x1="80" y1="80"  x2="80"  y2="300" stroke="#333" stroke-width="1"/>
+<g font-family="Times New Roman" font-size="12">
+  <text x="60" y="300" text-anchor="end">0</text>
+  <text x="60" y="260" text-anchor="end">30</text>
+  <text x="60" y="220" text-anchor="end">60</text>
+  <text x="60" y="180" text-anchor="end">90</text>
+  <text x="60" y="140" text-anchor="end">120</text>
+  <text x="60" y="100" text-anchor="end">150</text>
+</g>
+<rect x="120" y="100" width="100" height="200" fill="#d9534f"/>
+<rect x="270" y="180" width="100" height="120" fill="#5bc0de"/>
+<rect x="420" y="260" width="100" height="40"  fill="#5cb85c"/>
+<g font-family="Times New Roman" font-size="12">
+  <text x="170" y="318" text-anchor="middle">Essence</text>
+  <text x="170" y="96"  text-anchor="middle">150</text>
+  <text x="320" y="318" text-anchor="middle">VE (mix carboné)</text>
+  <text x="320" y="176" text-anchor="middle">90</text>
+  <text x="470" y="318" text-anchor="middle">VE (mix bas carbone)</text>
+  <text x="470" y="256" text-anchor="middle">30</text>
+</g>
+</svg>
+  <div class="caption">Figure 5. Ordres de grandeur pour situer les émissions en usage (les valeurs exactes dépendent des véhicules et du mix électrique).</div>
+</div>
+
+<h2>14. Conclusion : un choix guidé par l’usage réel</h2>
+<p>
+L’électrique prend l’avantage sur l’efficacité énergétique, le coût d’usage (surtout avec recharge à domicile) et la qualité de l’air en ville. Le thermique conserve des atouts pour les très longs trajets sans arrêt et lorsque l’accès à la recharge est compliqué. À mesure que les réseaux se densifient et que l’électricité se décarbone, l’électrique devient une solution durable et économique pour une grande partie des usages. Le bon choix dépend avant tout des trajets réels, des possibilités de recharge et du budget sur plusieurs années.
+</p>
+
+<hr/>
+
+<h2>Références images</h2>
+<ul>
+  <li>Recharge véhicule électrique : <a href="https://commons.wikimedia.org/wiki/File:Electric_Vehicle_Charging_Station.jpg">Wikimedia Commons – Electric Vehicle Charging Station.jpg</a></li>
+  <li>Ravitaillement voiture : <a href="https://commons.wikimedia.org/wiki/File:Fueling_Car.jpg">Wikimedia Commons – Fueling Car.jpg</a></li>
+  <li>Efficacité VE vs. essence (graphique AFDC) : <a href="https://afdc.energy.gov/data/10963">Alternative Fuels Data Center</a> – image PNG : <a href="https://afdc.energy.gov/uploads/data_sheet/10963/EV_Efficiency_Ratio_Comparison.png">lien direct</a></li>
+</ul>
+
+<div class="signature">
+  <h2>Signature</h2>
+  <p class="sigline">Nom : Ungureanu</p>
+  <p class="sigline">Prénom : Victor</p>
+  <p class="sigline">Classe : ____________________</p>
+  <p class="sigline">Date : ____________________</p>
+</div>
+
+<p class="small">Mise en page : Times New Roman 12, texte justifié, interligne redus (~1,04). Volum cu imagini ≈ cinci pagini, în funcție de margini și versiunea de Word.</p>
+
+</body>
+</html>
