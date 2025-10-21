@@ -1,1 +1,135 @@
-<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Metode de recondiționare prin prelucrări mecanice</title><style>body { font-family: Arial, sans-serif; font-size: 12pt; line-height: 1.15; } h1, h2, h3 { font-family: Arial, sans-serif; } p { margin: 0 0 8pt 0; } ul { margin-top: 0; margin-bottom: 8pt; } ol { margin-top: 0; margin-bottom: 8pt; } .center { text-align: center; } .small { font-size: 10pt; }</style></head><body><h1 class="center">Metode de recondiționare prin prelucrări mecanice</h1><p class="center small">Autor: viktorro, Data: 2025-10-21</p><h2>Rezumat</h2><p>Acest referat prezintă metode practice de recondiționare a pieselor prin prelucrări mecanice. Vei înțelege când folosești fiecare metodă, ce pași urmezi, ce toleranțe urmărești, ce costuri compari și cum verifici rezultatele. Găsești exemple concrete din ateliere mecanice și din industrie.</p><h2>1. Scop și obiective</h2><p>Recondiționarea prin prelucrări mecanice readuce piesele uzate la funcționalitate. Tu vrei să refaci forma, dimensiunea și calitatea suprafeței. Țintești toleranțele funcționale, rugozitatea cerută și coaxialitatea sau planeitatea impusă. Obiectivul tău este să obții fiabilitate la cost total minim, cu timp de staționare redus.</p><h2>2. Tipuri principale de metode</h2><h3>2.1 Prelucrarea la trepte de reparații</h3><p>Scazi controlat dimensiunea piesei uzate și treci la o dimensiune de reparație. Apoi ajustezi piesa conjugată. Exemplu, arborele se rectifică la minus 0,50 mm, bucșa se alezează sau se înlocuiește cu una cu diametrul interior corespunzător.</p><ul><li>Avantaje, tehnologie simplă, cost mic.</li><li>Limitări, număr finit de trepte, rezistență scăzută dacă secțiunea devine mică.</li></ul><h3>2.2 Rectificarea</h3><p>Refaci geometria și rugozitatea la toleranțe strânse. O folosești pentru arbori, axe, role, roți dințate, ghidaje.</p><ul><li>Parametri tipici, granulație 46, duritate J-K, viteză 30 m/s, avans 0,01, 0,02 mm pe cursă, adaos total 0,1, 0,3 mm.</li><li>Ținte, IT6, IT7, rugozitate Ra 0,2, 0,8 μm pentru suprafețe funcționale.</li></ul><h3>2.3 Alezarea și honuirea</h3><p>Alezarea corectează ovalitatea și conicitatea, honuirea uniformizează și scade rugozitatea. Se folosesc la cilindri, bucșe, carcase de lagăr.</p><ul><li>Ținte, abateri de formă sub 0,01 mm, rugozitate Ra 0,4, 1,2 μm, rețea de honuire pentru reținerea lubrifiantului.</li></ul><h3>2.4 Strunjirea și frezarea de corecție</h3><p>Le folosești când trebuie să refaci scaune plane, fețe de reazem, canale de pană, canale O-ring, filete. După depuneri sau sudare, vii cu strunjire și frezare pentru readucerea la cotă.</p><h3>2.5 Metalizarea termică, pulverizare cu flacără, HVOF</h3><p>Depui material pe suprafața uzată, apoi prelucrezi la dimensiune. Alegi procedeul după solicitări.</p><ul><li>Flacără, grosimi 0,1, 1,0 mm, aderență bună, cost redus.</li><li>HVOF, particule cu viteză mare, straturi dense, duritate mare, rezistență la uzură și coroziune, postprelucrare prin rectificare.</li></ul><h3>2.6 Încărcarea prin sudare urmată de prelucrare</h3><p>Depui material prin sudare, apoi rectifici sau strunjești la cotă. Alegi procedeul în funcție de material și solicitare, de exemplu sudare cu electrod înveliț sau TIG pe oțel carbon, sudare MIG pe fontă cu electrozi speciali.</p><ul><li>Avantaje, cost scăzut, disponibilitate în atelier.</li><li>Control, tratament termic de detensionare, preîncălzire la fontă, adecvarea materialului de adaos.</li></ul><h3>2.7 Reparații prin inserții, bucșare, manșonare</h3><p>Pentru găuri ovalizate sau suprafețe uzate, presezi o bucșă sau manșon. Fixezi prin interferență, adeziv structural sau știfturi. Apoi alezezi la dimensiunea finală.</p><h3>2.8 Rectificări de planeitate și ghidaje</h3><p>Pentru bănci de mașini și prisme, folosești rectificare de suprafață sau șrabluire. Verifici cu riglă de control, vopsea de contact și ceas comparator.</p><h2>3. Fluxul tehnologic al recondiționării</h2><ol><li>Recepție și curățare. Speli, degresezi, sablezi dacă este nevoie. Notezi eticheta și istoricul.</li><li>Inspecție. Măsori uzura, ovalitatea, conicitatea, bătăile. Folosești micrometrul, alezometrul, ceasul comparator, rugozimetrul.</li><li>Diagnoză. Identifici cauzele uzurii, lubrifiere insuficientă, aliniere proastă, contaminare, material necorespunzător.</li><li>Alegerea metodei. Compari opțiunile după criteriile de la capitolul 4.</li><li>Pregătirea suprafețelor. Fațete de degajare, raze, sablare ușoară pentru aderență înainte de depuneri.</li><li>Execuție. Depunere, strunjire, rectificare, alezare, honuire, frezare. Ții sub control temperaturile, vibrațiile, adaosurile.</li><li>Tratament termic, dacă este cazul. Detensionare după sudare, revenire după călire, stabilizare dimensională.</li><li>Control final. Dimensiuni, geometrie, rugozitate, defectoscopie, test de scurgere, probă de presiune, probă la banc.</li><li>Ambalare și livrare. Protejezi suprafețele, adaugi raportul de măsurători și instrucțiuni de montaj.</li></ol><h2>4. Criterii de selecție a metodei</h2><ul><li>Solicitarea piesei. Forțe, temperatură, uzură, coroziune. Dacă piesa funcționează la contact rulare, preferi strat dur, de exemplu HVOF sau cromare, urmate de rectificare.</li><li>Materialul piesei. Oțel carbon, oțel aliat, fontă, bronz, inox, aluminiu. Compatibilitatea cu procedeul de depunere sau sudare.</li><li>Dimensiune și geometrie. Acces la zona uzată, rigiditate, posibilitatea de prindere.</li><li>Precizie cerută. Toleranță IT6, IT7, rugozitate sub 1 μm, coaxialitate sub 0,01 mm.</li><li>Cost total. Manoperă, materiale de adaos, consumabile, timp de staționare, risc de rebut.</li><li>Repetabilitate și control. Posibilitatea de a asigura calitatea pe serii.</li></ul><h2>5. Controlul calității</h2><ul><li>Dimensiuni, micrometru, subler, alesometru, ceas comparator pe V-uri. Folosești metode de 3 puncte pentru diametre.</li><li>Geometrie, bătăi radiale și axiale sub 0,02 mm pentru arbori medii. Coaxialitate verificată între zone funcționale.</li><li>Rugozitate, Ra 0,2, 0,8 μm pentru lagăre și garnituri. Ra 1,6, 3,2 μm pentru fețe de reazem.</li><li>Integritate, lichide penetrante pentru fisuri după sudare. Magnatografie pentru oțeluri feromagnetice.</li><li>Aderență, probă de bandă sau microdureza stratului depus, HV 600, 1200 pentru HVOF, după caz.</li></ul><h2>6. Exemple aplicate</h2><h3>Exemplul 1, arbore cu jurnal uzat</h3><p>Defect, diametru nominal 50 mm, măsurat 49,72 mm, ovalitate 0,03 mm. Soluție, depunere prin sudare MIG, preîncălzire 150 °C, detensionare, strunjire de semifinisare la 50,10 mm, rectificare la 50,00, 0,01 mm, Ra 0,4 μm. Bucșa conjugată se alezează la 50,00, 50,02 mm.</p><h3>Exemplul 2, carcasă cu locaș de rulment ovalizat</h3><p>Defect, D nominal 80 H7, măsurat 80,12, 80,18 mm. Soluție, alezare de corecție la D 81,00 mm, presare bucșă din oțel C45, interferență 0,05 mm, fixare cu adeziv anaerob, alezare finală la 80 H7, Ra 1,6 μm.</p><h3>Exemplul 3, cilindru hidraulic zgâriat</h3><p>Defect, zgârieturi adânci 0,05, 0,10 mm. Soluție, recondiționare prin metalizare HVOF cu carbură de tungsten, rectificare, honuire, Ra 0,2, 0,4 μm. Test de presiune la 200 bar, fără scurgeri.</p><h3>Exemplul 4, ghidaje de mașină-unealtă</h3><p>Defect, abateri de planeitate 0,08 mm pe 1 m. Soluție, rectificare de suprafață în treceri succesive, control cu riglă clasa 00, corecție locală prin șrabluire, rețea de puncte 20, 30 pe 25 cm².</p><h2>7. Calcul economic orientativ</h2><p>Compari costul reparației cu înlocuirea. Un arbore nou costă 1000 lei și are termen 10 zile. Recondiționarea prin sudare și rectificare costă 350 lei și durează 2 zile. Beneficiu, economisești 650 lei și 8 zile de staționare. Dacă durata de viață recondiționată este 80 la sută din nou, decizia rămâne rentabilă.</p><p>Aplică aceeași abordare pe fiecare piesă. Adaugă costurile colaterale, demontare, transport, calibrare, pierderi de producție.</p><h2>8. Echipamente și parametri recomandati</h2><ul><li>Strung cu bătăi sub 0,01 mm. Discuri de rectificat echilibrate din corindon 46, 60. Honuitoare cu pietre CBN pentru suprafețe dure.</li><li>Instrumente, micrometre 25, 50, 75, 100 mm clasa 1, ceas comparator 0,01 mm, alesometru telescopic, rugozimetru portabil.</li><li>Depuneri, set HVOF pentru carburi, pistol de pulverizare cu flacără pentru oțel inox și bronz, surse MIG, TIG, electrozi specifici pentru fontă.</li></ul><h2>9. Riscuri și măsuri de prevenție</h2><ul><li>Deformare termică după sudare, minimizezi încălzind controlat, depuneri simetrice, detensionare la 550, 650 °C la oțeluri carbon.</li><li>Fisuri în strat, controlezi energia introdusă, alegi material de adaos compatibil, verifici cu lichide penetrante.</li><li>Aderență slabă la metalizare, sablare corectă Sa 2,5, preîncălzire ușoară, parametri de pulverizare în fereastra recomandată.</li><li>Supraprelucrări, planifici adaosurile, stabilești cote intermediare, verifici după fiecare fază.</li></ul><h2>10. Recomandări practice pentru tine</h2><ul><li>Definește toleranțele țintă înainte de execuție. Scrie fișa tehnologică cu cote și rugozități.</li><li>Stabilește referințele de prindere și succesiunea operațiilor, astfel păstrezi coaxialitatea.</li><li>Notează parametrii reali folosiți. Vei reproduce calitatea pe următoarele piese.</li><li>Fă control intermediar. Nu lăsa erorile să se acumuleze până la final.</li><li>Folosește mostre de probă când schimbi un disc sau o piatră de honuire. Verifică Ra înainte de piesa finală.</li></ul><h2>11. Bibliografie selectivă</h2><ol><li><a href="https://generalmagheru.ro/wp-content/uploads/2024/04/Suport-de-curs-maistri-mecanici.pdf">Suport de curs, tehnologii moderne de recondiționare</a></li><li><a href="https://www.scrigroup.com/tehnologie/tehnica-mecanica/Metode-de-reconditionare-a-pie64551.php">Metode de recondiționare la trepte de reparații</a></li><li><a href="https://fiir.upb.ro/Upload/Studenti/SSS_2016/lucrarile_sesiunii_stud_2016/L14_Rontescu_Corneliu.pdf">Cercetări privind recondiționarea prin sudare</a></li><li><a href="https://graduo.net/referate/mecanica/tehnologia-de-reparare-si-reconditionare-a-pistonului-instalatiei-hidraulice-183837">Tehnologia de reparare și recondiționare a pistonului</a></li><li><a href="https://regielive.net/laboratoare/organe-de-masini/selectarea-metodei-rationale-de-reconditionare-a-piesei-386710.html">Selectarea metodei raționale de recondiționare</a></li></ol><p class="small">Format, Arial 12, spațiere 1,15, conținut orientativ pentru aproximativ 4 pagini în Word, în funcție de margini.</p></body></html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Metode de recondiționare prin prelucrări mecanice</title>
+<style>
+body { font-family: Arial, sans-serif; font-size: 12pt; line-height: 1.12; text-align: justify; margin: 2cm; }
+h1, h2, h3 { font-family: Arial, sans-serif; }
+h1 { text-align: center; margin-bottom: 8pt; }
+h2 { margin-top: 12pt; margin-bottom: 6pt; }
+h3 { margin-top: 10pt; margin-bottom: 4pt; }
+p  { margin: 0 0 8pt 0; }
+ul, ol { margin: 0 0 8pt 22pt; }
+.small { font-size: 10pt; color: #333; }
+r { border: none; border-top: 1px solid #ccc; margin: 10pt 0; }
+.caption { font-size: 10pt; color: #333; text-align:center; }
+</style>
+</head><body>
+<h1>Metode de recondiționare prin prelucrări mecanice</h1>
+<p class="small" style="text-align:center;">Autor: ——— | Data: ———</p>
+<h2>Rezumat</h2>
+<p>
+Acest referat explică, pe înțelesul tău, cum readuci piesele uzate la funcționalitate folosind prelucrări mecanice. Vei vedea când alegi fiecare metodă, ce pași urmezi, cum verifici rezultatul și cum decizi dacă merită recondiționarea față de înlocuire. Am inclus exemple concrete, criterii de selecție, recomandări practice și riscuri frecvente pe care le poți evita.
+</p>
+<h2>1. De ce recondiționezi și ce urmărești</h2>
+<p>
+Scopul recondiționării este să refaci precizia, forma și calitatea suprafeței astfel încât piesa să funcționeze din nou în siguranță. Țintești toleranțele din desen (de exemplu IT6–IT7 pentru arbori și alezaje), rugozitățile impuse (Ra sub 1 μm pentru suprafețe de lagăr) și geometria (coaxialitate sub 0,01 mm, planeitate în limitele impuse). Obiectivul practic: fiabilitate bună la cost total cât mai mic și timp de imobilizare redus.
+</p>
+<h2>2. Cum alegi metoda potrivită (criterii-cheie)</h2>
+<ul>
+  <li><b>Tipul solicitării:</b> rulare, alunecare, șoc, temperatură, coroziune. Pentru contact de rulare preferi straturi dure (de ex. depuneri dense urmate de rectificare).</li>
+  <li><b>Materialul piesei:</b> oțel carbon/aliat, fontă, inox, aluminiu, bronz. Verifici compatibilitatea cu sudarea, metalizarea sau tratamentele.</li>
+  <li><b>Precizia cerută:</b> toleranțe strânse și rugozități mici pot impune rectificare/honuire după depuneri.</li>
+  <li><b>Geometrie și acces:</b> cum prinzi piesa, rigiditate, adaosuri disponibile, posibilitatea de centrare corectă.</li>
+  <li><b>Economia lucrării:</b> compari costul și durata reparației cu înlocuirea; ții cont de riscul de rebut.</li>
+  <li><b>Repetabilitate și control:</b> poți asigura aceeași calitate pe serii? ai dotările de măsurare necesare?</li>
+</ul>
+<h2>3. Metode principale de recondiționare</h2>
+<h3>3.1. Prelucrare la trepte de reparații</h3>
+<p>
+Când uzura este uniformă, reduci controlat dimensiunea piesei (de ex. rectifici un jurnal de arbore la −0,50 mm) și adaptezi piesa conjugată (bucșă, rulment sau alezaj) la noua dimensiune. Este o soluție simplă, ieftină și rapidă. Limita: nu ai trepte la nesfârșit, iar secțiunea nu trebuie slăbită excesiv.
+</p>
+<h3>3.2. Rectificarea</h3>
+<p>
+Rectificarea îți aduce toleranțe strânse și rugozitate mică pe arbori, axe, role, roți dințate sau ghidaje. Parametri tipici: disc corindon granulație 46–60, duritate J–K, viteză periferică ~30 m/s, adaos total 0,1–0,3 mm. Ținte uzuale: IT6–IT7 și Ra 0,2–0,8 μm pe suprafețele funcționale.
+</p>
+<h3>3.3. Alezarea și honuirea</h3>
+<p>
+Alezarea corectează ovalitatea și conicitatea locașurilor, iar honuirea uniformizează textura și reduce rugozitatea (Ra 0,4–1,2 μm), lăsând micro-rețea pentru reținerea lubrifiantului. Se folosesc frecvent la cilindri, bucșe și carcase de lagăr.
+</p>
+<h3>3.4. Strunjire și frezare de corecție</h3>
+<p>
+După depuneri sau suduri, vii cu strunjire/frezare pentru a readuce scaune plane, fețe de reazem, canale de pană, filetări ori locașuri la cotele cerute, cu bazare atentă pentru păstrarea coaxialității și paralelismului.
+</p>
+<h3>3.5. Încărcare prin sudare urmată de prelucrare</h3>
+<p>
+Depui material (MMA/TIG/MIG, în funcție de material și solicitare), apoi prelucrezi piesa la cotă (strunjire/rectificare). Avantaj: procedeu accesibil și versatil. Puncte-cheie: preîncălzire la fontă, material de adaos compatibil, detensionare termică după sudare, control cu lichide penetrante înainte de finisare.
+</p>
+<h3>3.6. Metalizare termică / pulverizare (inclusiv HVOF)</h3>
+<p>
+Depui un strat pe suprafața uzată (de la câteva zecimi până la ~1 mm sau mai mult, în funcție de procedeu), apoi rectifici la dimensiune. Pulverizarea cu flacără e accesibilă și economică; HVOF produce straturi dense, dure, cu rezistență superioară la uzură și coroziune—ideale pentru tije, role, cilindri, ulterior finisate prin rectificare/honuire.
+</p>
+<h3>3.7. Bucșare / manșonare / inserții</h3>
+<p>
+Pentru găuri ovalizate sau locașuri prea largi, presezi o bucșă sau aplici un manșon (interferență, adeziv structural/anaerob, eventual știfturi de siguranță), apoi alezezi la dimensiunea finală. E o metodă robustă și repetabilă.
+</p>
+<h3>3.8. Rectificarea suprafețelor plane și șrabluire</h3>
+<p>
+La ghidaje de mașini-unelte, bănci și prisme, se folosește rectificarea de suprafață pentru planeitate și paralelism, urmată, unde e nevoie, de șrabluire pentru punctaje de contact (de ex. 20–30 puncte/25 cm²). Controlul se face cu riglă etalon, vopsea de contact și ceas comparator.
+</p>
+<h2>4. Fluxul tehnologic: pas cu pas și de ce contează</h2>
+<ol>
+  <li><b>Recepție și curățare:</b> spălare, degresare, eventual sablare ușoară. Notezi istoricul piesei și condițiile de funcționare (lubrifiere, sarcini).</li>
+  <li><b>Măsurare și diagnoză:</b> uzură, ovalitate, conicitate, bătăi, rugozitate. Identifici cauza (aliniere, contaminare, material, lubrifiere) ca să nu repeți defectul.</li>
+  <li><b>Alegerea metodei:</b> compari opțiuni (tehnic, economic, termen). Stabilești adaosurile și toleranțele țintă, inclusiv cote intermediare.</li>
+  <li><b>Pregătirea suprafețelor:</b> teşiri/raze pentru depuneri, sablare pentru aderență, mascări acolo unde trebuie protecție.</li>
+  <li><b>Execuție:</b> depuneri, strunjire, rectificare, alezare, honuire, frezare. Controlezi temperaturile, vibrațiile, prinderile și bazele.</li>
+  <li><b>Tratament termic (unde e cazul):</b> detensionare după sudare, revenire după călire, stabilizare dimensională.</li>
+  <li><b>Control final:</b> dimensiuni, geometrie, rugozitate, defectoscopie (lichide penetrante, magnetoscopie), probe de presiune/etanșeitate, probă la banc.</li>
+  <li><b>Ambalare și documentație:</b> protecții pe suprafețe, raport de măsurători, recomandări de montaj și de rodaj.</li>
+</ol>
+<h2>5. Controlul calității: ce verifici și cu ce</h2>
+<ul>
+  <li><b>Dimensiuni:</b> micrometre clasa 1, sublere, alesometre, ceas comparator pe prisme în V (metodă în 3 puncte la diametre).</li>
+  <li><b>Geometrie:</b> bătăi radiale/axiale (de ex. sub 0,02 mm la arbori medii), coaxialitate între zone funcționale, planeitate pe ghidaje.</li>
+  <li><b>Rugozitate:</b> Ra 0,2–0,8 μm pentru suprafețe de lagăr; Ra 1,6–3,2 μm pentru fețe de reazem.</li>
+  <li><b>Integritate:</b> lichide penetrante după sudare; magnetoscopie la oțeluri feromagnetice; microduritate pe straturi depuse.</li>
+  <li><b>Aderență strat:</b> teste simple (bandă, încercări mecanice) și evaluări microstructurale la nevoie.</li>
+</ul>
+<h2>6. Trei exemple concrete (cu decizia tehnică explicată)</h2>
+<h3>6.1. Arbore cu jurnal uzat</h3>
+<p>
+Defect: nominal 50 mm, măsurat 49,72 mm, ovalitate 0,03 mm. Alegere: depunere prin sudare MIG (preîncălzire 150 °C), detensionare, strunjire de semifinisare la 50,10 mm, rectificare la 50,00 ±0,01 mm, Ra 0,4 μm. Bucșa conjugată se alezează la 50,00–50,02 mm. <i>De ce a mers:</i> solicitare medie, material compatibil cu adaosul, toleranțe realizabile prin rectificare.
+</p>
+<h3>6.2. Carcasă cu locaș de rulment ovalizat</h3>
+<p>
+Defect: D nominal 80 H7, măsurat 80,12–80,18 mm. Alegere: alezare de corecție la 81,00 mm, presare bucșă C45 cu interferență ~0,05 mm + adeziv anaerob, alezare finală la 80 H7, Ra ~1,6 μm. <i>De ce a mers:</i> metodă repetabilă, control bun al coaxialității, risc mic de fisurare față de sudare.
+</p>
+<h3>6.3. Tijă/cilindru hidraulic zgâriat</h3>
+<p>
+Defect: zgârieturi 0,05–0,10 mm. Alegere: metalizare cu strat dur (de ex. HVOF cu carbură), rectificare, honuire la Ra 0,2–0,4 μm; probă de presiune la 200 bar, fără scurgeri. <i>De ce a mers:</i> necesar strat dens și rezistent la uzură/coroziune, finisaj fin pentru etanșări.
+</p>
+<h2>7. Merită recondiționarea? O rețetă rapidă de decizie</h2>
+<ol>
+  <li><b>Cost piesă nouă + termen:</b> de ex. 1000 lei și 10 zile.</li>
+  <li><b>Cost recondiționare + termen:</b> de ex. 350 lei și 2 zile.</li>
+  <li><b>Durată de viață estimată:</b> dacă reparația oferă ≥70–80% față de piesa nouă, compară economia totală.</li>
+  <li><b>Costuri colaterale:</b> demontare/montare, transport, calibrare, pierderi de producție. Adaugă-le în calcul.</li>
+  <li><b>Risc:</b> probabilitatea de rebut/relucrare. Adaugă o marjă (de ex. 10–15%).</li>
+</ol>
+<p>
+Dacă suma arată un avantaj clar (timp + bani) și riscul este acceptabil, recondiționezi. Altfel, mergi pe înlocuire.
+</p>
+<h2>8. Echipamente și bune practici</h2>
+<ul>
+  <li><b>Mașini-unelte:</b> strung cu bătăi mici (<0,01 mm), rectificatoare cu discuri echilibrate (corindon 46–60), honuitoare (pietre CBN pentru straturi dure).</li>
+  <li><b>Instrumente:</b> micrometre clasa 1 (25–100 mm), ceas comparator 0,01 mm, alesometru telescopic, rugozimetru.</li>
+  <li><b>Depuneri:</b> surse MIG/TIG, electrozi pentru fontă, pistoale de pulverizare; respectă ferestrele de proces (curent, temperatură, distanță, viteze).</li>
+  <li><b>Proces:</b> definește din start bazele de prindere, succesiunea și cotele intermediare; verifică la fiecare etapă, nu doar la final.
+</li>
+</ul>
+<h2>9. Riscuri frecvente și cum le previi</h2>
+<ul>
+  <li><b>Deformare după sudare:</b> încălzire controlată, depuneri simetrice, detensionare, prinderi rigide și aliniate.</li>
+  <li><b>Fisuri în strat:</b> material de adaos compatibil, energie introdusă corectă, control NDT (lichide penetrante).</li>
+  <li><b>Aderență slabă la metalizare:</b> sablare Sa 2,5, pregătire și degresare corecte, parametri în plaja recomandată.</li>
+  <li><b>Supraprelucrări:</b> planifică adaosurile; lasă cote de verificare; măsoară des pentru a nu „scăpa” sub cota finală.</li>
+</ul>
+<h2>10. Concluzii</h2>
+<p>
+Recondiționarea prin prelucrări mecanice este o „cutie de unelte” versatilă: de la rectificare sau honuire până la depuneri urmate de finisare. Alegerea corectă pornește de la cerința funcțională a piesei (solicitare, toleranțe), material și economie. Cu un flux tehnologic disciplinat și cu măsurători la fiecare pas, poți obține piese fiabile la cost și termen excelente față de înlocuire. În esență, definește bine ținta, alege metoda potrivită, controlează procesul și verifică rezultatul—vei livra calitate constant.
+</p>
+<hr/>
+<p class="caption">
+Bibliografie orientativă: suporturi de curs și materiale despre tehnologii de recondiționare, rectificare, honuire, sudare și metalizare; standarde de toleranțe și rugozități; ghiduri de control dimensional și defectoscopie.
+</p>
+</body></html>
